@@ -1,6 +1,5 @@
 # Conteúdo - Aulas 29/08 e 02/09
 
-Liana é linda!
 
 Responsividade:
 
